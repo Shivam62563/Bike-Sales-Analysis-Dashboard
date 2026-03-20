@@ -34,6 +34,9 @@ Moderate/high income customers buy more; Professionals more likely to purchase
 
 Handling large data, designing dashboard, selecting correct charts
 
+## Dashboard Interaction
+<a href="https://github.com/Shivam62563/Bike-Sales-Analysis-Dashboard/blob/main/bike_analysis_dashboard.PNG"> Dashboard</a>
+
 
 ## Conclusion :-
 
