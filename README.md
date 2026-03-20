@@ -38,6 +38,9 @@ Handling large data, designing dashboard, selecting correct charts
 <a href="https://github.com/Shivam62563/Bike-Sales-Analysis-Dashboard/blob/main/bike_analysis_dashboard.PNG"> Dashboard</a>
 
 
+## Dashboard Image:-
+<img width="856" height="495" alt="image" src="https://github.com/user-attachments/assets/819c4861-aa8a-4973-9a60-c2a542ff9808" />
+
 ## Conclusion :-
 
 Project improved data analysis, visualization, and Excel skills
